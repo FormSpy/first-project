@@ -37,3 +37,8 @@ a {
 .user-navigation a:active {
   color: #b8b5b5;
 }
+.features-name {
+  font-size: 55px;
+  font-weight: 500;
+  line-height: 55px;
+}
